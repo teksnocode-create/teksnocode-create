@@ -25,7 +25,12 @@ Je construis des outils qui tournent en production : automatisations, bases de d
 | Écosystème IA | Anthropic, OpenAI, Gemini · Cursor, Antigravity, Lovable, Perplexity |
 | IA locale | LM Studio, Ollama |
 
-La plupart de mes projets sont privés (code client). Le détail est sur le portfolio.
+#### À voir ici
+
+- [**systemes-automatisation**](https://github.com/teksnocode-create/systemes-automatisation) : 4 systèmes en production (webinaires, paiement Stripe, agent IA qui s'améliore, reporting pub), architecture et choix
+- [**claude-code-pilotage**](https://github.com/teksnocode-create/claude-code-pilotage) : mon système pour que Claude Code garde le fil d'un projet, utilisé sur 13 projets
+
+Le code client reste privé. Le détail des projets est sur le portfolio.
 
 → **Portfolio** : [lab.sorek-inc.fr](https://lab.sorek-inc.fr)
 → **Contact** : nicolas@sorek-inc.fr
