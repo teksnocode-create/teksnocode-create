@@ -2,9 +2,9 @@
 
 Je construis des outils qui tournent en production : automatisations, bases de données, agents IA et petites applications, du recueil du besoin à la prise en main par les utilisateurs.
 
-- **100+ workflows en production**, 8 projets livrés, 4 apps en production
+- **100+ workflows en production**, 15 projets livrés, 4 apps en production
 - **Un SaaS de prospection LinkedIn** co-construit et utilisé par des clients : moteur n8n, API Unipile, Supabase, tableau de bord Next.js
-- **10 ans à diriger des restaurants** avant la reconversion : je pars du métier avant de choisir l'outil
+- **11 ans à diriger des restaurants** avant la reconversion : je pars du métier avant de choisir l'outil
 
 #### Compétences
 
