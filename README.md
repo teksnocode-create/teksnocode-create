@@ -25,6 +25,14 @@ Je construis des outils qui tournent en production : automatisations, bases de d
 | Écosystème IA | Anthropic, OpenAI, Gemini · Cursor, Antigravity, Lovable, Perplexity |
 | IA locale | LM Studio, Ollama |
 
+#### Formation
+
+Formateur IA et automatisation, déclaré organisme de formation. Je forme à ce que je construis, avec des cas réels, des schémas et des exercices.
+
+- **[Sorek Academy](https://academy.sorek-inc.fr)** : mes cours en ligne, du premier contact avec l'IA jusqu'à son premier agent dans n8n, avec des parties gratuites
+- **Parcours** : choisir la bonne tâche à automatiser, parler à l'IA et la régler, automatiser avec n8n et Make, construire un agent
+- **Interventions** : journées de formation en direct pour des entreprises, ou en sous-traitance pour des organismes de formation
+
 #### À voir ici
 
 - [**systemes-automatisation**](https://github.com/teksnocode-create/systemes-automatisation) : 4 systèmes en production (webinaires, paiement Stripe, agent IA qui s'améliore, reporting pub), architecture et choix
