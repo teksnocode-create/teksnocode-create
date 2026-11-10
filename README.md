@@ -1,4 +1,4 @@
-### Nicolas Gilquin · Product Builder no-code et IA
+### Nicolas Gilquin · Product Builder low-code et IA
 
 Je construis des outils qui tournent en production : automatisations, bases de données, agents IA et petites applications, du recueil du besoin à la prise en main par les utilisateurs.
 
